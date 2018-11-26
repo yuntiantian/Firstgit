@@ -6,3 +6,4 @@ Git is free software.
 
 
 suibian
+Git tracks changes.
